@@ -1,27 +1,28 @@
 * {
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  background-color: #30363a;
-    font: 14px 'Muli', 'sans-serif';
+  background-color: #ffc642;
+  font: 14px "Muli", "sans-serif";
 }
 
 #virus-icon {
-    display: inline;
-    margin: 2% auto
+  display: inline;
+  margin: 2% auto;
 }
 
 #header-text {
-    color: #eaeaea;
+  color: #3a3730;
 }
 
 div.header-wrapper {
-    text-align: center;
+  text-align: center;
 }
 
 div.header {
-    display: block;
-    margin: 0% auto
+  display: block;
+  margin: 0% auto;
 }
