@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background-color: #30363a;
+    font: 14px 'Muli', 'sans-serif';
+}
+
+#virus-icon {
+    display: inline;
+    margin: 2% auto
+}
+
+#header-text {
+    color: #eaeaea;
+}
+
+div.header-wrapper {
+    text-align: center;
+}
+
+div.header {
+    display: block;
+    margin: 0% auto
+}
